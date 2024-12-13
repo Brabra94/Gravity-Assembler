@@ -28,7 +28,7 @@ for _, recipeName in ipairs(baseRecipesToDuplicate) do
     duplicateRecipe(recipeName, "gravity-crafting")
 end
 
--- Autoriser les modules de productivité pour vos recettes
+-- Autoriser les modules de productivité pour les recettes
 for _, module in pairs(data.raw.module) do
     if module.effect and module.effect.productivity and module.limitation then
         table.insert(module.limitation, "gravity-blue-circuit")
