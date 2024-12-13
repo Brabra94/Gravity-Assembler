@@ -1,0 +1,9 @@
+{
+    "name": "Gravity-Assembler",
+    "version": "0.1.3",
+    "title": "Gravity-Assembler",
+    "author": "Azertyyu",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0","? space-age"],
+    "description": "The ultimate assembler with HQ textures and HQ animations that produces at a titanic speed at the expense of the quality of the ambient air! High pollution!"
+}

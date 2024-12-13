@@ -1,0 +1,28 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.3
+Date: 06.12.2024
+Changes:
+- Animation speed decreased from 0.30 to 0.15
+- Added new icons (Thanks to @malcolmriley)
+- Now only quality is allowed for Gravity Assembler
+- Recipe now Increased pollution ( 400 %) 
+- Pollen supported now
+---------------------------------------------------------------------------------------------------
+Version: 0.1.2
+Date: 06.12.2024
+Changes:
+- Recipe for Gravity Assembler
+- Changes technology cost for each research
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 06.12.2024
+Changes:
+- Increased crafting speed of Gravity Assembler from 4 to 5
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 06.12.2024
+Initial release:
+- Initial release 0.1.0
+
+
+  
